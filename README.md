@@ -4,6 +4,9 @@
 This is  a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 ## Installetion
+https://will198735.github.io/day-scheduler/
+
+https://github.com/will198735/day-scheduler/settings/pages
 
 
 
